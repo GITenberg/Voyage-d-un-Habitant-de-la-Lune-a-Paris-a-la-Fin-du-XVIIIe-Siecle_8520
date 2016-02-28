@@ -1,0 +1,21 @@
+_repo: Voyage-d-un-Habitant-de-la-Lune-a-Paris-a-la-Fin-du-XVIIIe-Siecle_8520
+creator:
+  author:
+    agent_name: Gallet, Pierre
+    gutenberg_agent_id: '2782'
+    url: http://www.gutenberg.org/2009/agents/2782
+description: ''
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8520'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Utopias'
+title: Voyage d'un Habitant de la Lune à Paris à la Fin du XVIIIe Siècle
+url: http://www.gutenberg.org/ebooks/8520
